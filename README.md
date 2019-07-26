@@ -1,5 +1,5 @@
 This is just like the [official docker WordPress images](https://github.com/docker-library/wordpress),
-but without WordPress itself.  It is therefore suitable for installing WordPress using composer.
+but without WordPress itself.  It is therefore suitable for installing WordPress using composer, or using it as the basis of your own container wordpress, like [this](https://github.com/tesujimath/docker-wordpress).
 
 There is currently only one Dockerfile, for php:7.3-fpm-alpine.  Follow
 [this issue](https://github.com/docker-library/wordpress/issues/418)
