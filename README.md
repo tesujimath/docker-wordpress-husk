@@ -1,3 +1,5 @@
+*This image is deprecated, as per https://github.com/docker-library/wordpress/issues/418#issuecomment-527061668*
+
 This is just like the [official docker WordPress images](https://github.com/docker-library/wordpress),
 but without WordPress itself.  It is therefore suitable for installing WordPress using composer, or using it as the basis of your own container wordpress, like [this](https://github.com/tesujimath/docker-wordpress).
 
